@@ -1,6 +1,6 @@
 {
 	"name": "typescript-starter",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "A bootstrap-able GitHub template to jumpstart Typescript projects.",
 	"main": "src/index.ts",
 	"author": {
